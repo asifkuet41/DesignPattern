@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cce5b6b2-a01c-44b7-a5e6-3dc2c0badff5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yfbu3AsEkqslYzgco6tQ0SpQj0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeatherStation" />
+      <module name="Observer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WeatherStation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cce5b6b2-a01c-44b7-a5e6-3dc2c0badff5" name="Default Changelist" comment="" />
+      <created>1583336814733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583336814733</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="519" y="109" width="374" height="564" key="#com.intellij.ide.util.MemberChooser" timestamp="1583337555779">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="519" y="109" width="374" height="564" key="#com.intellij.ide.util.MemberChooser/57.27.1309.741@57.27.1309.741" timestamp="1583337555779" />
+    <state width="1263" height="179" key="GridCell.Tab.0.bottom" timestamp="1583339398937">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="179" key="GridCell.Tab.0.bottom/57.27.1309.741@57.27.1309.741" timestamp="1583339398937" />
+    <state width="1263" height="179" key="GridCell.Tab.0.center" timestamp="1583339398936">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="179" key="GridCell.Tab.0.center/57.27.1309.741@57.27.1309.741" timestamp="1583339398936" />
+    <state width="1263" height="179" key="GridCell.Tab.0.left" timestamp="1583339398936">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="179" key="GridCell.Tab.0.left/57.27.1309.741@57.27.1309.741" timestamp="1583339398936" />
+    <state width="1263" height="179" key="GridCell.Tab.0.right" timestamp="1583339398936">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="179" key="GridCell.Tab.0.right/57.27.1309.741@57.27.1309.741" timestamp="1583339398936" />
+  </component>
+</project>

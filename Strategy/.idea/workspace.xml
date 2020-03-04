@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2e0fe4c-8802-4063-a7a1-d67b8d63e55f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XnDHNbTeSJpxs0OXDvoBXrC2ZA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client.MiniDuckSimulator" />
+      <module name="Strategy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MiniDuckSimulator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2e0fe4c-8802-4063-a7a1-d67b8d63e55f" name="Default Changelist" comment="" />
+      <created>1581672876133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581672876133</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="59" width="800" height="664" key="#Project_Structure" timestamp="1581673463268">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="556" y="59" width="800" height="664" key="#Project_Structure/57.27.1309.741@57.27.1309.741" timestamp="1581673463268" />
+    <state x="846" y="109" width="374" height="564" key="#com.intellij.ide.util.MemberChooser" timestamp="1581673869435">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="846" y="109" width="374" height="564" key="#com.intellij.ide.util.MemberChooser/57.27.1309.741@57.27.1309.741" timestamp="1581673869435" />
+    <state width="1263" height="179" key="GridCell.Tab.0.bottom" timestamp="1581751194843">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="179" key="GridCell.Tab.0.bottom/57.27.1309.741@57.27.1309.741" timestamp="1581751194843" />
+    <state width="1263" height="179" key="GridCell.Tab.0.center" timestamp="1581751194842">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="179" key="GridCell.Tab.0.center/57.27.1309.741@57.27.1309.741" timestamp="1581751194842" />
+    <state width="1263" height="179" key="GridCell.Tab.0.left" timestamp="1581751194842">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="179" key="GridCell.Tab.0.left/57.27.1309.741@57.27.1309.741" timestamp="1581751194842" />
+    <state width="1263" height="179" key="GridCell.Tab.0.right" timestamp="1581751194843">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="179" key="GridCell.Tab.0.right/57.27.1309.741@57.27.1309.741" timestamp="1581751194843" />
+    <state x="367" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582127079175">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="367" y="225" key="com.intellij.ide.util.TipDialog/57.27.1309.741@57.27.1309.741" timestamp="1582127079175" />
+    <state x="57" y="27" width="1299" height="728" key="new project wizard" timestamp="1583336814629">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="57" y="27" width="1299" height="728" key="new project wizard/57.27.1309.741@57.27.1309.741" timestamp="1583336814629" />
+  </component>
+</project>
